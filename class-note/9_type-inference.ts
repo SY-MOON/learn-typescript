@@ -34,3 +34,6 @@ var detailedItem: DetailedDropdown<string> = {
   value: '',
   tag: ''
 }
+
+//best common type
+var arr = [1,2,true,'a'];
